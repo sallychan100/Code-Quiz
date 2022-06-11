@@ -1,7 +1,7 @@
 # Code Quiz  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
  
 
-  Description: An app that allow users to search and save playlists
+  Description: An app that allow users to play a short quiz about knowledge on coding
  
 
 ## Table of content
