@@ -1,4 +1,4 @@
-#Code Quiz  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Code Quiz  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
  
 
   Description: An app that allow users to search and save playlists
